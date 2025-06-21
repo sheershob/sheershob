@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a fifth and final year B.Tech + M.Tech student at Jawaharlal Nehru University.
+I'm a recent B.Tech + M.Tech graduate from Jawaharlal Nehru University.
 <br>
 ## 💻 My Tech Stack
 
