@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a recent B.Tech + M.Tech graduate from Jawaharlal Nehru University.
+I'm a Software Development Engineer (SDE-1) at Truminds Software Systems. I've graduated from Jawaharlal Nehru University with a B.Tech + M.Tech degree.
 <br>
 ## 💻 My Tech Stack
 
