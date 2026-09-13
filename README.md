@@ -1,6 +1,10 @@
 ## Hi there 👋
 I'm a Software Development Engineer (SDE-1) at Truminds Software Systems. I've graduated from Jawaharlal Nehru University with a B.Tech + M.Tech degree.
+
 <br>
+My current work focuses on AI/ML systems, computer vision, LLM inference, and edge AI. I've worked on model benchmarking and optimization, real-time AI applications, and deploying ML workloads across different edge platforms.
+<br>
+
 ## 💻 My Tech Stack
 
 ### Languages
@@ -19,18 +23,3 @@ I'm a Software Development Engineer (SDE-1) at Truminds Software Systems. I've g
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-### Operating Systems
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-<!--
-**sheershob/sheershob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
